@@ -1,4 +1,4 @@
-Create a file named "clone_repos.ps1" and copy/paste this Powershell script inside =>
+Create a file named "clone_repos.ps1" and copy/paste this Powershell script inside =>  
 ⚠️ Don't forget to adapt your $basePath !!!
 
 ```powershell
