@@ -35,7 +35,7 @@ foreach ($repo in $repos) {
 }
 ```
 
-Place yourself in the directory of the script and launch =>
+In a terminal place yourself in the script directory path and launch this command =>
 ```bash
 ./clone_repos.ps1
 ```
